@@ -16,6 +16,7 @@ class AdaptiveCard(Base):
                     "version": "1.2",
                     "body": [],
                     "msteams": {
+                        "width": "Full",
                         "entities": []
                     }
                 }
